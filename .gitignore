@@ -1,0 +1,6 @@
+*.jpg
+*.png
+.idea/
+CUB_200_2011/
+weights1/
+weights0/
